@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2>
+  yuma 
+  <span style="color: #fff8;">@yumayuma708</span>
+</h2>
 
-<!--
-**yumayuma708/yumayuma708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Stats
 
-Here are some ideas to get you started:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yumayuma708&theme=vision-friendly-dark&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yumayuma708&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=dart,html,css,js,git,github,flutter&theme=dark&perline=9)](https://skillicons.dev)
+
+### Editors
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio&theme=dark&perline=9)](https://skillicons.dev)
+
+### Design Tool
+
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark&perline=9)](https://skillicons.dev)
